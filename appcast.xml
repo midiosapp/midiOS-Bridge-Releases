@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>midiOS Bridge</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Sun, 26 Jul 2026 17:27:01 -0300</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="NMSwzabfSVhF7R7fHsGxyq5cKacsLXgPU70xVzP/0w8gGT6AxLIziNSYKZrrVNo0+jUi7/AAivCKj6WQnHjLBg==" sparkle:length="823">https://midiosapp.github.io/midiOS-Bridge-Releases/updates/midiOS-Bridge-1.0.0-42.md</sparkle:releaseNotesLink>
+            <enclosure url="https://midiosapp.github.io/midiOS-Bridge-Releases/updates/midiOS-Bridge-1.0.0-42.zip" length="5465499" type="application/octet-stream" sparkle:edSignature="UQUfIisZDqcZY8ns0LoFuhK0WV/UesGoCjQZapqVxQ6gtF3VPaOhDXgv3dfOHB602u72SghQrFWI1mZGbbWyCw=="/>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Wed, 22 Jul 2026 08:55:44 -0300</pubDate>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
@@ -23,18 +32,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:releaseNotesLink sparkle:edSignature="ISaV4SzOhTOdHqQN2/YOFFzPH5pPfEgE3R5ux/pSSTGC/kBiUBXTghGO50pS8ULpOONl4njRatUjLgZGPAYCDg==" sparkle:length="532">https://midiosapp.github.io/midiOS-Bridge-Releases/updates/midiOS-Bridge-1.0.0-40.md</sparkle:releaseNotesLink>
             <enclosure url="https://midiosapp.github.io/midiOS-Bridge-Releases/updates/midiOS-Bridge-1.0.0-40.zip" length="5359622" type="application/octet-stream" sparkle:edSignature="8q3ecBGJQ3+BcmBBVGx2wAKf9qCgxNcpRiXRJnDqHuVGrhLchjdw/n0UmbBUWd0aRFg8o1TmM+EzD3IXXeEDAw=="/>
         </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Fri, 17 Jul 2026 15:23:18 -0300</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="lR2R1s5VYjXi3HlaanEAbyUQCmuQlKPc7Xm09XrFzLFLy87zK94oKD3zYhYIEFj4m7tJyRYA4OdKW0HUaInxAQ==" sparkle:length="1061">https://midiosapp.github.io/midiOS-Bridge-Releases/updates/midiOS-Bridge-1.0.0-36.md</sparkle:releaseNotesLink>
-            <enclosure url="https://midiosapp.github.io/midiOS-Bridge-Releases/updates/midiOS-Bridge-1.0.0-36.zip" length="5324193" type="application/octet-stream" sparkle:edSignature="+w+KP/3PlUWi49/xk9MZ7c2PLDO9cqaeAVL3gJe6OxSYptUJgQ4oK/OimTKlJX1zhEePsumHBOG5q6EW8zeVBg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: djz7+C8sd8CgVSa4irJpfOze2Nn2rHH9z9XAV/UadEGb4NtTejsPmNv9spSyVwW6atf9X4w77vRMeY7hsXa/Dw==
-length: 3105
+edSignature: tvvY7/k3/QY/f0E0g/d5padiGkrR1WI2J5TFEf7BMogXw0+Efzufs6X79FBVG9jD+7PAqYfiTxgsqe0LHVCWAg==
+length: 3104
 -->
